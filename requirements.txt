@@ -3,3 +3,5 @@ uvicorn
 numpy
 librosa
 scipy
+python-multipart
+
